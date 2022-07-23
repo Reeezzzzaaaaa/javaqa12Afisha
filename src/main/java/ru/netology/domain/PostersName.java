@@ -13,7 +13,7 @@ public class PostersName {
 
     public PostersName(String posterName) {
         this.posterName = posterName;
-    }  ///sgsdgsdgsdg
+    }
 
     public String getPosterName() {
         return posterName;

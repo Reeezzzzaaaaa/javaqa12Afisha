@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import ru.netology.manager.Manager;
 
 
-public class ManagerTest {////sdgsdgsdgsdgsd
+public class ManagerTest {
 
     PostersName poster1 = new PostersName("Бладшот");
     PostersName poster2 = new PostersName("Вперед");
