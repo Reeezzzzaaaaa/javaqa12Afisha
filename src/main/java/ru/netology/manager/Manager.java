@@ -37,7 +37,7 @@ public class Manager {
 
     public PostersName[] findLast() {
         int results;
-        if (posters.length > maxPosters) {
+        if (posters.length > maxPosters) { ////sgsdgdsgsdgsg
             results = maxPosters;
         } else {
             results = posters.length;
